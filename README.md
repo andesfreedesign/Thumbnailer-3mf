@@ -1,7 +1,7 @@
 # Thumbnailer-3mf
 Support to show of .3mf files thumbnails on Free Desktop Environments (like GNOME or KDE)
 
-![capture](https://github.com/andesfreedesign/Thumbnailer-3mf/capture.png)
+![capture](https://github.com/andesfreedesign/Thumbnailer-3mf/blob/main/capture.png)
 
 ### Installation on Debian-based distributions
 
