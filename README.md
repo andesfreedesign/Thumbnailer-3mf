@@ -3,6 +3,8 @@ Support to show of .3mf files thumbnails on Free Desktop Environments (like GNOM
 
 ![capture](https://github.com/andesfreedesign/Thumbnailer-3mf/blob/main/capture.png)
 
+> Note: The .3mf files were obtained from parts modeled and exported from the FreeCAD software
+
 ### Installation on Debian-based distributions
 
 - Open a terminal
