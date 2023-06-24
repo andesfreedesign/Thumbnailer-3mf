@@ -17,11 +17,11 @@ sudo cp 3mf-thumbnailer.py /usr/bin
 ```
 sudo chmod +x /usr/bin/3mf-thumbnailer.py
 ```
-- Copy the  application/x-extension-3mf MIME type file
+- Copy the thumbnailer file
 ```
 sudo cp 3mf.thumbnailer /usr/share/thumbnailers
 ```
-- Copy the thumbnailer file
+- Copy the application/x-extension-3mf MIME type file
 ```
 sudo cp 3mf-thumb-mime.xml /usr/share/mime/packages
 ```
