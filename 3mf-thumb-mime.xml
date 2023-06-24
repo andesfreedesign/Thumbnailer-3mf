@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/x-extension-3mf">
+    <!-- <sub-class-of type="application/zip"/> -->
+    <comment>3D Manufacturing Format</comment>
+    <glob pattern="*.3mf"/>
+    <generic-icon name="application-x-extension-3mf"/>
+  </mime-type>
+</mime-info>
